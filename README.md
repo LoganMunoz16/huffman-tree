@@ -1,6 +1,6 @@
 # Huffman Tree
 
-This was the final project in my Data Structures II course.
+This was the final project in my Data Structures II course, CSC 2431.
 
 We were tasked with creating a C++ implementation of a Huffman Tree that would be used to encode any text document input to the program. The implementation takes the text document and first creates a Frequency Table, which holds how many times each character appears throughout the document. Then, using the Frequency Table, the Huffman Tree is constructed, and then used to encode the document. This was tested with small scale documents containing a few paragraphs, and text documents as large as the entire King James Bible. 
 
